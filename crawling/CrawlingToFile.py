@@ -9,8 +9,8 @@ import urllib.parse
 from bs4 import BeautifulSoup
 
 #용택 여기따가 적으셈 니 api 키 값
-naver_client_id = "gWCl32aWz7U4qCkvPmh_"
-naver_client_secret = "fi3zgsdSqD"
+naver_client_id = "INPUT YOUR CLIENT ID"
+naver_client_secret = "INPUT YOUR CLIENT SECRET"
 
 
 def naver_blog_crawling(search_blog_keyword, display_count, sort_type):
